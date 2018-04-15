@@ -4,3 +4,11 @@ table,td,th
 	font-family: tahoma;
 
 }
+#tr2:hover{
+	background-color: red;
+}
+#th1{
+	border: 0px;
+
+	border-collapse: collapse;
+}
