@@ -1,6 +1,6 @@
-#erstetabelle ,tab.th, tab.td
+table,td,th
 {
-	border = 5px solid black;
+	border: 5px solid black;
 	font-family: tahoma;
 
 }
